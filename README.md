@@ -4,6 +4,8 @@
 
 * ~~Crear un servicio y modelo para cargar los Logos con ngFor~~
 
+* Desplegar el proyecto en una URL publica
+
 * Añadir un buscador
 
 * Desplegar informacion registrada de cada objeto del modelo logo
