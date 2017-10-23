@@ -14,14 +14,20 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
-## Running unit tests
+## Hoja de Ruta
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* ~~Crear un servicio y modelo para cargar los Logos con ngFor~~
 
-## Running end-to-end tests
+* Añadir un buscador
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+* Desplegar informacion registrada de cada objeto del modelo logo
 
-## Further help
+* Integrar Materialize con Angular
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+* **Añadir Nuevo componente global -> una firma personal con datos de contacto al Linkedin**
+
+* Integrarlo con Laravel
+  * Crear una API publica
+
+
+
