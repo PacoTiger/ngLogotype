@@ -29,5 +29,5 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 * Integrarlo con Laravel
   * Crear una API publica
 
-
+* Crear un "carro" para seleccionar los logos y descargarlos en un click
 
