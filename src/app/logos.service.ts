@@ -37,6 +37,10 @@ export class LogosService {
 		             'SASS', 
 		             'Syntactically Awesome Stylesheets (SASS) is a style sheet language', 
 		             '../assets/sass.png'),
+		        new Logo ('9',
+		             'Angular', 
+		             'Javascript framework', 
+		             '../assets/angular.png'),
 	];
 
   constructor() { }
