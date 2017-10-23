@@ -1,4 +1,4 @@
-# NgLogotype
+# ngLogotype
 
 ## Hoja de Ruta
 
