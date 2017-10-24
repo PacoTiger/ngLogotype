@@ -1,7 +1,7 @@
 # ngLogotype
 
 ## Hoja de Ruta
-src/index
+
 * ~~Crear un servicio y modelo para cargar los Logos con ngFor~~
 
 * Desplegar el proyecto en una URL publica
