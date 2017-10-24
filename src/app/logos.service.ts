@@ -41,6 +41,10 @@ export class LogosService {
 		             'Angular', 
 		             'Javascript framework', 
 		             '../assets/angular.png'),
+		        new Logo ('10',
+		             'Laravel', 
+		             'PHP web framework', 
+		             '../assets/laravel-logo.png'),
 	];
 
   constructor() { }
