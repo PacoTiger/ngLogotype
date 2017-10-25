@@ -8,7 +8,7 @@ https://pacotiger.github.io/ngLogotype/
 
 * ~~Crear un servicio y modelo para cargar los Logos con ngFor~~
 
-* Desplegar el proyecto en una URL publica
+* ~~Desplegar el proyecto en GitHub Pages~~
 
 * Añadir un buscador
 
