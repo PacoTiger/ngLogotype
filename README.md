@@ -1,5 +1,9 @@
 # ngLogotype
 
+## Deploying
+
+https://pacotiger.github.io/ngLogotype/
+
 ## Hoja de Ruta
 
 * ~~Crear un servicio y modelo para cargar los Logos con ngFor~~
