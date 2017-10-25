@@ -35,5 +35,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
+Remenber to deploy in Github Page, you have to use option `--prod` and `--base-ref "https..."` and then `ngh` that is the alias of angular-cli-ghpages
+
 
 
